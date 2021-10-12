@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Chris Fanikos. I'm a healthcare business and data analyst with a passion for using data to improve health care operations and delivery. 
+- This is my personal GitHub account and will be used as a repository for projects that I work on in my spare time--some useful, some just for fun.
